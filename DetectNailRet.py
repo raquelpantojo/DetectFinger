@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 from random import randint
 import matplotlib.pyplot as plt
 
+#Teste Github
+
 def DetectPositionMaxSkin(filename,x, y, w, h, lower, upper):
     #y=y+50
     Image = cv2.VideoCapture(filename)
